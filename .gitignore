@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv
+
+# Environment Variables
+.env
+
+# Vector Database
+chroma_db/
+chroma_db
+
+# MacOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
