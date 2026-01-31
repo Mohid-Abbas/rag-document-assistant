@@ -251,7 +251,7 @@ graph.add_conditional_edges(
 
 | API Documentation (Swagger) | n8n Workflow | Chat Interface |
 |:---------------------------:|:------------:|:--------------:|
-| ![Swagger UI](./docs/swagger.png) | ![n8n](./docs/n8n-workflow.png) <br> *Export your n8n workflow* | ![Chat](./docs/query-demo.png) <br> *Example query response* |
+| ![Swagger UI](./docs/swagger.png) | ![n8n](./docs/n8n-workflow.png) <br> *Export the n8n workflow* | ![Chat](./docs/query-demo.png) <br> *Example query response* |
 
 **Instructions to add screenshots:**
 1.  Create a `docs` folder in your project root.
