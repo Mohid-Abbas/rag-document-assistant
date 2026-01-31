@@ -260,14 +260,14 @@ graph.add_conditional_edges(
 4.  Take a screenshot of a successful API response and save as `docs/query-demo.png`.
 
 
-🎯 Future Roadmap
+🎯 Future Roadmap : 
 [ ] Multi-Modal Support: Add image processing with CLIP embeddings
 [ ] Advanced Agent Tools: Integration with web search (Tavily/SerpAPI)
 [ ] Streaming Responses: SSE implementation for real-time token streaming
 [ ] Auth System: JWT authentication and user document isolation
 [ ] LangSmith Integration: Detailed tracing and monitoring
 
-📝 Context
+📝 Context : 
 This project was built to demonstrate expertise in:
 Agentic AI: Building autonomous decision-making systems with LangGraph
 RAG Systems: Practical implementation of retrieval-augmented generation
