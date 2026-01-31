@@ -267,7 +267,7 @@ graph.add_conditional_edges(
 [ ] Auth System: JWT authentication and user document isolation
 [ ] LangSmith Integration: Detailed tracing and monitoring
 
-📝 Internship Context
+📝 Context
 This project was built to demonstrate expertise in:
 Agentic AI: Building autonomous decision-making systems with LangGraph
 RAG Systems: Practical implementation of retrieval-augmented generation
