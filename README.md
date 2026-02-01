@@ -6,7 +6,11 @@
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-purple.svg)](https://trychroma.com)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://docker.com)
 
-An enterprise-grade Retrieval-Augmented Generation (RAG) system featuring autonomous agent capabilities, built with LangChain, LangGraph, and FastAPI. Includes automated document processing pipelines orchestrated via n8n.
+An enterprise-grade **Retrieval-Augmented Generation (RAG)** system featuring **autonomous agent capabilities**, built with LangChain, LangGraph, and FastAPI. Includes automated document processing pipelines orchestrated via n8n.
+
+---
+
+## 🏗️ Architecture Overview
 
 ```mermaid
 graph TD
@@ -56,6 +60,7 @@ graph TD
 
 ## 📁 Project Structure
 
+```
 rag-document-assistant/
 ├── app/
 │   ├── api/routes.py          # FastAPI endpoints
